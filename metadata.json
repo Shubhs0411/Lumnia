@@ -1,0 +1,9 @@
+{
+  "name": "Lumina",
+  "description": "World-class visual and auditory accessibility assistant for the blind.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
